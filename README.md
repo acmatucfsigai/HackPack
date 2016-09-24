@@ -12,7 +12,7 @@ It has resources ranging from the very beginnings to the frontier of the field.
 
 *Building Machines That Learn and Think Like People* (A, L) Lake, et. al
 
-Summary: Creating machines that can build models of the world they're exposed to - in the ways humans are observed to do - is worth researchng heavily by folks in the field
+Find It Here: http://www.mit.edu/~tomeru/papers/machines_that_think.pdf
 
 
 
