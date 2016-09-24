@@ -11,6 +11,7 @@ It has resources ranging from the very beginnings to the frontier of the field.
 > (A) == Advanced (N) == Novice (B) == Beginner (S) == Short (L) == Long
 
 *Building Machines That Learn and Think Like People* (A, L) Lake, et. al
+
 Summary: Creating machines that can build models of the world they're exposed to - in the ways humans are observed to do - is worth researchng heavily by folks in the field
 
 
