@@ -37,3 +37,9 @@ Find It Here: http://www.mit.edu/~tomeru/papers/machines_that_think.pdf
 *Machine Learning: A Probabilistic Perspective* -- Kevin Murphy
 
 *Artificial Intelligence: A Modern Approach* -- Stuart Russell & Peter Norvig
+
+
+
+
+## Online Open Courseware
+> Coming Soon...
