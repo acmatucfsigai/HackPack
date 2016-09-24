@@ -24,3 +24,16 @@ Summary: Creating machines that can build models of the world they're exposed to
 *Mind Design II* edited by John Haugeland
 
 *The Master Algorithm* Pedro Domingos
+
+*The Society of Mind* Marvin Minsky
+
+*The Emotion Machine* Marvin Minsky
+
+
+
+## Essential Textbooks
+> These will suit all of your technical needs. Note we don't detail the edition of the texts. Just get the latest one that's out - that's what we'd do if possible. After all, it's a fast-paced field.
+
+*Machine Learning: A Probabilistic Perspective* Kevin Murphy
+
+*Artificial Intelligence: A Modern Approach* Stuart Russell & Peter Norvig
