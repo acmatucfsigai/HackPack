@@ -16,8 +16,8 @@ Find It Here: http://www.mit.edu/~tomeru/papers/machines_that_think.pdf
 
 
 
-## Great Nonfiction Novels All Should Read
-> What separates a good researcher from a great researcher is intuition. To build that, it's best to read books that talk about good questions and interesting concepts and leave the technical detail to the textbooks.
+## Nonfiction Novels All Should Read
+> What separates a good researcher from a great researcher is intuition. To build that, it's best to read books that ask good questions, talk about high-level concepts, and leave the technical details to the textbooks.
 
 *Godel, Escher, Bach: An Eternal Golden Braid* -- Douglas Hofstadter 
 
