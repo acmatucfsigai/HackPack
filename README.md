@@ -34,17 +34,23 @@ Find It Here: http://www.mit.edu/~tomeru/papers/machines_that_think.pdf
 ## Essential Textbooks
 > These will suit all of your technical needs. Note we don't detail the edition of the texts. Just get the latest one that's out - that's what we'd do if possible. After all, it's a fast-paced field.
 
+### General Textbooks
+
 *Machine Learning: A Probabilistic Perspective* -- Kevin Murphy
 
 *Artificial Intelligence: A Modern Approach* -- Stuart Russell & Peter Norvig
 
+### Specific Textbooks
 
+*Make Your Own Neural Network* -- Tariq Rashid -- PDF Coming Soon
+
+*Neural Networks And Deep Learning* -- Michael Nielson -- http://neuralnetworksanddeeplearning.com/
+
+*Deep Learning* -- Ian Goodfellow, et. al. -- http://www.deeplearningbook.org/
 
 
 ## Online Open Courseware
 > Coming Soon...
-
-
 
 
 ## YouTube Channels That Deserve Your Subscription
