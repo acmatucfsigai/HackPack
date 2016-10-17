@@ -1,6 +1,8 @@
 # Neural Network Workshop
 > Fall 2016. Descriptions and details coming after workshop.
 
+## IPython/Jupyter Anaconda
+* https://www.continuum.io/downloads
 
 ## MNIST DataSets
 * A training set http://www.pjreddie.com/media/files/mnist_train.csv
