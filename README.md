@@ -42,7 +42,7 @@ Find It Here: http://www.mit.edu/~tomeru/papers/machines_that_think.pdf
 
 ### Specific Textbooks
 
-*Make Your Own Neural Network* -- Tariq Rashid -- PDF Coming Soon
+*Make Your Own Neural Network* -- Tariq Rashid -- https://drive.google.com/drive/folders/0B65X3y3Tw2wYZXN3R2JORnBCQm8
 
 *Neural Networks And Deep Learning* -- Michael Nielson -- http://neuralnetworksanddeeplearning.com/
 
