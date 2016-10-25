@@ -16,7 +16,7 @@
 3. **Week of 10/17/16-10/23/16**
   * Podcast: "Explaining the Predictions of Machine Learning Models" an interview with Carlos Guestrin on explainability
    * https://twimlai.com/twiml-talk-7-carlos-guestrin-explaining-predictions-machine-learning-models/
-  * Text: "“Why Should I Trust You?” Explaining the Predictions of Any Classifier" - Marco Tulio Ribeiro et. al.
+  * Text: "Why Should I Trust You?” Explaining the Predictions of Any Classifier" - Marco Tulio Ribeiro et. al.
    * http://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf
 
 4. **Week of 10/24/16-10/30/16**
