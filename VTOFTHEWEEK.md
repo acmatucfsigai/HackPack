@@ -19,3 +19,8 @@
   * Text: "“Why Should I Trust You?” Explaining the Predictions of Any Classifier" - Marco Tulio Ribeiro et. al.
    * http://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf
 
+4. **Week of 10/24/16-10/30/16**
+  * Video: "Plenary Panel: Is Deep Learning The New 42?" a panel at the 2016 KDD conference on deep learning
+   * https://www.youtube.com/watch?v=furfdqtdAvc&list=PLOuKUlfyncOgzeS2JAF36pByOXdfc8U8I&index=6
+  * "Text: Micro-Data Learning: The Other End of the Spectrum" - Jean-Baptiste Mouret
+   * http://ercim-news.ercim.eu/en107/special/micro-data-learning-the-other-end-of-the-spectrum
