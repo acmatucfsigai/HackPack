@@ -54,4 +54,7 @@ Find It Here: http://www.mit.edu/~tomeru/papers/machines_that_think.pdf
 
 
 ## YouTube Channels That Deserve Your Subscription
-> Coming Soon...
+*Two Minute Papers* -- https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg
+
+## Podcasts
+*Talking Machines* -- Ryan Adams & Katherine Gorman -- http://www.thetalkingmachines.com/
